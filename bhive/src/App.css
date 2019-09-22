@@ -1,0 +1,70 @@
+
+.App-link {
+  color: #e2ac17;
+}
+
+.navigationBar {
+  background-image: url('https://ravigornal.files.wordpress.com/2019/09/image.jpg');
+  height:800px ;
+  background-position: center;
+  background-image: linear-gradient(#232424)
+}
+
+.row {
+  display: flex; 
+}
+
+.place {
+  margin-left: 50px;
+}
+
+.btn {
+ margin-top: 120px;
+ margin-left: 50px;
+ border: 10px;
+}
+
+.btn1 {
+  margin-top: 120px;
+  margin-left: 330px;
+  border: 10px;
+ }
+
+ .scrollTag{
+   font-size: 40px;
+   text-align: center;
+   color: aliceblue;
+ }
+
+ .left {
+   float: left;
+   width: 50px;
+ }
+
+ #review {
+  margin-left: 100px;
+}
+  
+.h1 {
+  font-family: cursive;
+  margin: 60px;
+  color: #305248;
+}
+
+.footer {
+  background: #343a3a;
+  height: 300px;
+  display: flex;
+}
+
+.contact {
+  text-align: center;
+  margin-top: 70px;
+  margin-left: 250px;
+ 
+}
+
+.clr {
+  color: aliceblue;
+  margin-left: 20px;
+}
